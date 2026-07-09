@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Blog on Marcus Julius Estrella Profile</title>
-		<link>http://localhost:1313/tags/blog/</link>
-		<description>Recent content in Blog on Marcus Julius Estrella Profile</description>
+		<title>Gaming on Marcus Julius Estrella Profile</title>
+		<link>http://localhost:1313/tags/gaming/</link>
+		<description>Recent content in Gaming on Marcus Julius Estrella Profile</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -12,20 +12,13 @@
 		
 			<lastBuildDate>Wed, 08 Jul 2026 23:29:21 +0530</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/gaming/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Video Game Giants and AI</title>
 				<link>http://localhost:1313/blogs/steam-vs-epic/</link>
 				<pubDate>Wed, 08 Jul 2026 23:29:21 +0530</pubDate>
 				<guid>http://localhost:1313/blogs/steam-vs-epic/</guid>
 				<description>&lt;h2 id=&#34;paragraph&#34;&gt;Paragraph&lt;/h2&gt;&#xA;&lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>The Ethics of Anonymity and Surveys</title>
-				<link>http://localhost:1313/blogs/survey/</link>
-				<pubDate>Wed, 10 Jun 2026 23:29:21 +0530</pubDate>
-				<guid>http://localhost:1313/blogs/survey/</guid>
-				<description>&lt;h1 id=&#34;surveys-and-ethics&#34;&gt;Surveys and Ethics&lt;/h1&gt;&#xA;&lt;p&gt;In this blog, we shall explore the idea around a specific survey and how ethics is related to it.&lt;/p&gt;&#xA;&lt;p&gt;We shall explore issues around the said survey and how it will affect both the surveyor and the participants.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-problem&#34;&gt;The Problem&lt;/h2&gt;&#xA;&lt;p&gt;During this week, you learned how to decide what is right and wrong when conducting data science through concepts, techniques, and cautionary tales. In this assignment, you will create a blog post that analyzes a problem from a data science ethics perspective, applying the concepts you learned this week.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
