@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 10 Jun 2026 23:29:21 +0530</lastBuildDate>
+			<lastBuildDate>Wed, 08 Jul 2026 23:29:21 +0530</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Video Game Giants and AI</title>
+				<link>http://localhost:1313/blogs/steam-vs-epic/</link>
+				<pubDate>Wed, 08 Jul 2026 23:29:21 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/steam-vs-epic/</guid>
+				<description>&lt;h1 id=&#34;epic-games-and-steam-clash-their-ideals-regarding-ai-in-video-games&#34;&gt;Epic Games and Steam Clash Their Ideals Regarding AI in Video Games&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;The recent debate between Valve&amp;rsquo;s Steam platform and Epic Games highlights an important ethical issue in data science and artificial intelligence. Steam requires game developers to disclose when generative AI has been used to create game assets or content. Epic Games CEO Tim Sweeney has criticized this policy, arguing that mandatory AI labels discourage developers by creating negative perceptions among consumers and reducing sales. This disagreement demonstrates the challenges of balancing transparency, fairness, accountability, and innovation when AI technologies are integrated into digital products.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>The Ethics of Anonymity and Surveys</title>
 				<link>http://localhost:1313/blogs/survey/</link>
